@@ -1,3 +1,3 @@
 # Skylines Git Demo
 
-Sample text files to illustrate Git work flow.
+Sample text files to illustrate Git work flow from command line.
